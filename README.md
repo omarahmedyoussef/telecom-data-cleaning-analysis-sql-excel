@@ -3,7 +3,7 @@
 This is a complete data analysis project simulating a telecom company's internal reporting system. It includes real-world steps like data cleaning, SQL-based business analysis, and dashboard creation in Excel.
 
 ---
-
+![Dashboard Preview](dashboard/Tele_Dash.png)
 ## 📌 Objective
 
 To analyze customer behavior, revenue per subscription plan, complaint patterns, and more — using SQL queries directly inside Python (via DuckDB), after cleaning the data with Pandas.
